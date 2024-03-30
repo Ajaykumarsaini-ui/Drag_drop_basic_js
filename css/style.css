@@ -19,7 +19,7 @@ body{
 
 
 .imgBox{
-    background-image: url('/img/section_2_2_img.png');
+    background-image: url('img/section_2_2_img.png');
     background-position: center;
     object-fit: cover;
     background-repeat: no-repeat;
